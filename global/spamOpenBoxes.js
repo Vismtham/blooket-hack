@@ -10,11 +10,11 @@ const capitalize = (text) => text.charAt(0).toUpperCase() + text.slice(1);
             }
         }),
         price = ({
-            blizzard: 25,
-            spooky: 25,
-            aquatic: 25,
-            bot: 20,
-            space: 20,
+            blizzard: 0,
+            spooky: 0,
+            aquatic: 0,
+            bot: 0,
+            space: 0,
             breakfast: 15,
             medieval: 15,
             wonderland: 20
