@@ -14,7 +14,7 @@ const capitalize = (text) => text.charAt(0).toUpperCase() + text.slice(1);
             spooky: 25,
             aquatic: 25,
             bot: 20,
-            space: 20,
+            space: 5,
             breakfast: 15,
             medieval: 15,
             wonderland: 20
